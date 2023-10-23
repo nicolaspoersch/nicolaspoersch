@@ -2,7 +2,7 @@
 ![Shellscript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Profile Image](https://avatars.githubusercontent.com/u/134356258?v=4)
+![Profile Image](https://i.pinimg.com/originals/2a/d5/37/2ad5370cd0df788c053caf78a4926506.jpg)
 
 I'm passionate about technology, cybersecurity, and coding. My goal is to make the digital world a safer place through innovative solutions and forensic analysis. Every line of code I write and every security measure I implement is a contribution to a more resilient digital ecosystem.
 
