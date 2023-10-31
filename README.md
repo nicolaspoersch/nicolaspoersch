@@ -25,6 +25,10 @@ I'm passionate about technology, cybersecurity, and coding. My goal is to make t
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolaspoersch&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## Do you want to start in this world?
+
+[Hacking Introduction](https://github.com/nicolaspoersch/hacking-introduction) - A guide/roadmap for beginners to get started in Hacking
+
 ## Projects
 
 Here are some of the projects I'm proud of:
