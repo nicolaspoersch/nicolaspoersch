@@ -42,7 +42,7 @@ Feel free to explore them and contribute if you find them interesting!
 
 Let's connect and collaborate:
 
-- 🌐 Discord: eternalrivalry
+- 🌐 Discord: dskadoasdoqweo
   
 ## Conclusion
 I believe in the power of community and working together to build a safer digital future.
