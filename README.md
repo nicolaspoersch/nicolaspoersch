@@ -57,6 +57,9 @@ Detection events are forwarded to **microcontrollers**, responsible for movement
 - Human-like movement synthesis
 - Designed for operation under **kernel-mode anti-cheat environments**
 
+🎬 **Example:** Vision-based detection (CV + NN) — [click here to view!](https://imgur.com/a/PKk4ZVO) *(real-time neural model detection via external camera)*
+
+
 <p align="center">
   <img src="https://i.imgur.com/8oyqjum.png" />
 </p>
