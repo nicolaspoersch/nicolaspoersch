@@ -1,51 +1,74 @@
-# Hello, I'm Nicolas Poersch! ✨
-![Shellscript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Profile Image](https://i.pinimg.com/564x/ec/d0/19/ecd019cb60258acf2728fd0739bd803f.jpg)
+<p align="center">
+  <img src="https://i.imgur.com/SpPKhWF.png" width="140" />
+</p>
 
-I'm passionate about technology, cybersecurity, and coding. My goal is to make the digital world a safer place through innovative solutions and forensic analysis. Every line of code I write and every security measure I implement is a contribution to a more resilient digital ecosystem.
+<h1 align="center">Nicolas Poersch</h1>
 
-## About Me
+<p align="center">
+  Game hacking & reverse engineering<br/>
+  External tooling · input emulation · behavior analysis
+</p>
 
-- 🌐 I'm a cybersecurity student with a keen interest in exploiting vulnerabilities to understand and improve digital security.
-- 🐍 I'm a Python enthusiast, constantly exploring its capabilities for various applications.
-- 💻 I'm a shell enthusiast, automating tasks and simplifying workflows.
-- 🌟 I enjoy delving into web development with JavaScript, creating interactive and dynamic web experiences.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WinAPI-0078D4?style=flat&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HID-444444?style=flat"/>
+  <img src="https://img.shields.io/badge/Reverse_Engineering-000000?style=flat"/>
+</p>
 
-## Skills and Technologies
+---
 
-- 🔒 Cybersecurity
-- 🐍 Python
-- 🌐 Web Development (HTML, CSS, JavaScript)
-- 🖥️ Shell Scripting (Bash)
-- 💼 Forensic Analysis
+## 🧠 Focus
 
-## GitHub Stats
+- External game tools (no injection)
+- Vision / pixel based detection
+- HID & input emulation
+- Timing & behavior analysis
+- Anti-cheat surface research
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolaspoersch&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-## Do you want to start in this world?
+## ⚙️ Technical Areas
 
-[Hacking Introduction](https://github.com/nicolaspoersch/hacking-introduction) - A guide/roadmap for beginners to get started in Hacking
+- External architectures
+- Behavioral realism
+- Input timing & smoothing
+- Detection vector reduction
+- User-mode research
 
-## Projects
+I prioritize **realism and minimal footprint** over speed or brute-force techniques.
 
-Here are some of the projects I'm proud of:
+---
 
-1. [Port Scanner](https://github.com/nicolaspoersch/port-scanner) - Automated python tool for scanning ports with wordlists and ports of your choice
-2. [DNS Scanner](https://github.com/nicolaspoersch/dns_scanner) - An easy-to-use tool to scan DNS for websites and discover subdomains
+## 🚧 Current Project — **Aimi**
 
-Feel free to explore them and contribute if you find them interesting!
+**Aimi** is an external vision-based system focused on real-time **model and pixel identification** using **computer vision and neural networks**.
 
-## Contact Me
+The project relies on a **camera-based pipeline**, avoiding direct interaction with game memory.  
+Detection events are forwarded to **microcontrollers**, responsible for movement and input generation via **HID devices**.
 
-Let's connect and collaborate:
+### Architecture highlights
 
-- 🌐 Discord: sybronn
-  
-## Conclusion
-I believe in the power of community and working together to build a safer digital future.
+- Vision-based detection (CV + NN)
+- Camera feed instead of framebuffer access
+- Microcontroller communication layer
+- HID input via **Makcu / Arduino**
+- Human-like movement synthesis
+- Designed for operation under **kernel-mode anti-cheat environments**
 
-Thank you for visiting my GitHub profile, and I look forward to connecting with you!
+<p align="center">
+  <img src="https://i.imgur.com/8oyqjum.png" />
+</p>
 
+---
+
+## ⚠️ Disclaimer
+
+All work is intended for **research and educational purposes**, focused on understanding software behavior, automation detection, and security mechanisms.
+
+---
+
+## 💬 Contact
+
+- Discord: **0130123912391230**
