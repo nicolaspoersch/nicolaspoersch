@@ -5,8 +5,8 @@
 <h1 align="center">Nicolas Poersch</h1>
 
 <p align="center">
-  Game hacking & reverse engineering<br/>
-  External tooling · input emulation · behavior analysis
+  game hacking & reverse engineering<br/>
+  External Tooling · Input Emulation · Behavior Analysis
 </p>
 
 <p align="center">
