@@ -23,6 +23,7 @@
 
 - External game tools (no injection)
 - Vision / pixel based detection
+- Low-level process memory inspection
 - HID & input emulation
 - Timing & behavior analysis
 - Anti-cheat surface research
